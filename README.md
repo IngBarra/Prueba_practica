@@ -17,6 +17,7 @@ Frontend:
 
 Backend:
 
+-Thunder Client: Extensión de VS Code usada para probar y consumir APIs.
 -Express: Framework minimalista para Node.js, utilizado para crear y manejar las rutas del servidor y las API.
 -MongoDB: Base de datos NoSQL utilizada para almacenar los datos de las búsquedas de productos.
 -Mongoose: ODM (Object Data Modeling) para interactuar con la base de datos MongoDB de forma más estructurada.
